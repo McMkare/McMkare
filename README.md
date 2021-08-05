@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @McMkare
 - 👀 I’m interested in ...programming back end and front end
-- 🌱 I’m currently learning ...JS, php, python
+- 🌱 I’m currently learning ...html, CSS, JS, php, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
